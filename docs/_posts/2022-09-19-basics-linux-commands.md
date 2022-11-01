@@ -162,9 +162,10 @@ Linux CLI (Command Line Interface) is robust and powerful interface to interact 
 * `sudo`
 * `tree` - List contents of directories in a tree-like format.
     ```bash
-    ## to update apt repository
+    ## To use tree command it has to be installed if it is not installed already.
+    ## To install first, update apt repository
     sudo apt update
-    ## to install `tree` command from apt repository
+    ## then install `tree` command from apt repository
     sudo apt install tree
     ```
 
@@ -212,7 +213,7 @@ who -u > data/userdtls-$(date -d now +'%d%m%y_%H%M%S').txt
 
 ## File Permissions in Linux
 
-### Changing Ownership(chown)
+### Changing Ownership (chown)
 
 This command is used to change the owner of the file
 
