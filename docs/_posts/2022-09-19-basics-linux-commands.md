@@ -277,7 +277,7 @@ ln [source path] [new path]
 In this link we can also link directories and if we remove the source , the link will be like hanging and not point to anything. The method to create soft link 
 
 ```bash
-ln -s {source path] [new path]
+ln -s [source path] [new path]
 ```
 
 
