@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+## Anyone Can Code - Workshop on Generative AI and Prompt Engeering, Jan 2025
+
+[Download the workshop instruction set from here](assets/anyone-can-code.pdf)
 
 ## Linux Basics
 
